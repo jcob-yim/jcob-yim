@@ -1,4 +1,4 @@
-## *Welcome! Jcob's World!*
+## *Welcome! Jcob's World!* 😸
 ![제이콥](./jacob.JPG)
 ---
 - 👋 Hi, I’m @jcob-yim
