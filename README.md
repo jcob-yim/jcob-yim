@@ -1,5 +1,6 @@
-# Welcome! Jcob's World!
-
+## *Welcome! Jcob's World!*
+![제이콥](C:\Users\028\Desktop\Programming\캡처.JPG)
+---
 - 👋 Hi, I’m @jcob-yim
 - 👀 I’m interested in app,back-end
 - 🌱 I’m currently learning java,python
