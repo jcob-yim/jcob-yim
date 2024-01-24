@@ -1,5 +1,5 @@
 ## *Welcome! Jcob's World!* 😸
-![badge](https://img.shields.io/badge/Jcob-world-blue)
+![badge](https://img.shields.io/badge/-orange-Jcob's-World-blue)
 
 ![제이콥](./jacob.JPG)
 ---
