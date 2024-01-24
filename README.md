@@ -1,5 +1,5 @@
 ## *Welcome! Jcob's World!*
-![제이콥](./img/jacob.JPG)
+![제이콥](./jacob.JPG)
 ---
 - 👋 Hi, I’m @jcob-yim
 - 👀 I’m interested in app,back-end
