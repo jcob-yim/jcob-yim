@@ -1,4 +1,6 @@
 ## *Welcome! Jcob's World!* 😸
+![badge](https://img.shields.io/badge/any_text-you_like-blue)
+
 ![제이콥](./jacob.JPG)
 ---
 - 👋 Hi, I’m @jcob-yim
